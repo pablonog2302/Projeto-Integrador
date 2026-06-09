@@ -18,7 +18,7 @@ public class Main {
             do {
                 System.out.println("""
                         
-                        ====MENU====
+                        ====MENU====  
                         
                         1 - Cadastrar Usuário  
                         2 - Listar Usuáriosa
